@@ -60,18 +60,6 @@ Contents of `out.txt`
 
 ##### Solutions
 
-- Level 0 (basic) implementation:
-
-  Code branch [01-single-threaded-impl](https://github.com/sanketwakhare/merge-sorter/tree/01-single-threaded-impl)
-
-- Level 1 implementation:
-
-  Code branch [02-support-multiple-input-files](https://github.com/sanketwakhare/merge-sorter/tree/02-support-multiple-input-files)
-
-- Level 2 and Level 3 implementation:
-
-  Code branch [03-add-multi-threading-support](https://github.com/sanketwakhare/merge-sorter/tree/03-add-multi-threading-support) 
-
 - master branch has the latest code with all the levels implemented.
 
-  Code branch [master](https://github.com/sanketwakhare/merge-sorter)
+  Code branch [master](https://github.com/SanjivYadav/Mergesorter)
